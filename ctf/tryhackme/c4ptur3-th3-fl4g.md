@@ -6,7 +6,9 @@
 c4n y0u c4p7u23 7h3 f149?
 ```
 
-This task 
+This task ...
+
+![](../../.gitbook/assets/image.png)
 
 
 
